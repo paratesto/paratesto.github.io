@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://paratesto.github.io
+title: paratesto
+tagline: Para Testo
+description: Para Testo's Blog
+paginate: 5
